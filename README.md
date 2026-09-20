@@ -218,29 +218,10 @@ FinTech_Document_Intelligence_RAG/
 ├── README.md
 ├── RAG_EVALUATION.md
 ├── RAG_EVALUATION.csv
-├── INTERVIEW_GUIDE.md
-├── RESUME_ENTRY.md
 ├── ARCHITECTURE.md
-├── PROJECT_CHECKLIST.md
+├── Fintech_Document_Intelligence_Rag.json
 └── architecture.mmd
 ```
-
-## n8n Workflow Export
-
-Export the final workflow from n8n and add it to the repository as:
-
-```text
-fintech_document_intelligence_rag.json
-```
-
-Do not commit API keys or credentials.
-
-## Security
-
-Never include:
-
-- Pinecone API keys
-- Gemini API keys
 - OpenAI API keys
 - n8n credentials
 - private documents that you do not have permission to publish
