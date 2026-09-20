@@ -1,0 +1,11 @@
+Test #,Test,Expected Source,Observed Result,Status
+1,Purpose of KFS,RBI,RBI document + evidence,PASS
+2,Cooling-off/look-up period,RBI,RBI document + requirements + evidence,PASS
+3,LSP responsibilities,RBI,RBI document + multiple relevant sections,PASS
+4,DLA data-collection restrictions,RBI,RBI document + restrictions + evidence,PASS
+5,Present value,Module 2,Module 2 + evidence,PASS
+6,Discrete vs continuous growth,Module 2,Module 2 + evidence,PASS
+7,Classical optimization,Module 2,Module 2 + evidence,PASS
+8,Main subject of each document,Both,Both documents identified,PASS
+9,APR vs present value,Both,Correct mapping to each document,PASS
+10,Current repo rate,Neither,Not-found response,PASS
