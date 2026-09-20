@@ -224,6 +224,5 @@ FinTech_Document_Intelligence_RAG/
 ```
 - OpenAI API keys
 - n8n credentials
-- private documents that you do not have permission to publish
+- private documents that do not need to publish
 
-Use environment variables or n8n credential management for secrets.
