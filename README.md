@@ -157,7 +157,7 @@ This demonstrates the intended grounded-answer behavior.
 
 ### Persistent vector storage
 
-The original class workflow used a Simple Vector Store. This implementation uses Pinecone so document vectors persist independently of a temporary in-memory workflow state.
+This implementation uses Pinecone so document vectors persist independently of a temporary in-memory workflow state.
 
 ### Multi-document retrieval
 
